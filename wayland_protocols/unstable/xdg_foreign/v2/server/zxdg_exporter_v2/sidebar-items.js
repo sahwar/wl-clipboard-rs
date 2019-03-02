@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["REQ_DESTROY_SINCE","The minimal object version supporting this request"],["REQ_EXPORT_TOPLEVEL_SINCE","The minimal object version supporting this request"]],"enum":[["Event",""],["Request",""]],"struct":[["ZxdgExporterV2",""]],"trait":[["RequestHandler","An interface for handling requests."]]});

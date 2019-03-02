@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","Errors that can occur in `copy_data()`."]],"fn":[["copy_data","Copies data from one file to another."],["is_text","Checks if the given MIME type represents plain text."]]});
